@@ -1,3 +1,7 @@
 # First.Project.Using.React
 Meu primeiro projeto usando React JS, e de praxe utilizando uma API externa para consumir.
-<img style="" src="./img/banner.jpeg">
+Um buscador de CEP, achei que seria útil.
+
+##
+
+<img style="width:700px" src="./img/banner.jpeg">
