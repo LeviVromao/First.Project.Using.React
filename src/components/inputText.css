@@ -1,0 +1,16 @@
+.inputText{
+    border-radius: 13px;
+    border: 2px solid chartreuse;
+    width: 190px;
+    padding: 7px;
+    margin-right: 8px;
+    font-size: 15px;
+    background-color: #000;
+    color: chartreuse;
+}
+
+@media (max-width: 450px){
+    .inputText{
+        font-size: 14px;
+    }
+}
